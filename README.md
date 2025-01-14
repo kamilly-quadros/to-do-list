@@ -19,7 +19,7 @@ A simple To-Do List app that allows users to add, edit, and delete tasks, mark t
 - **JavaScript**: Core functionality, including task management, filtering, and localStorage handling.
 
 ## Demo
-A live demo of this app can be viewed [here](#).
+A live demo of this app can be viewed [here](https://kamilly-quadros.github.io/to-do-list/).
 
 ## Usage
 1. **Adding a Task**:
@@ -77,7 +77,7 @@ Um aplicativo simples de lista de tarefas que permite aos usuários adicionar, e
 - **JavaScript**: Funcionalidade principal, incluindo gerenciamento de tarefas, filtragem e manipulação do `localStorage`.
 
 ## Demonstração
-Uma demonstração ao vivo deste aplicativo pode ser visualizada [aqui](#).
+Uma demonstração ao vivo deste aplicativo pode ser visualizada [aqui](https://kamilly-quadros.github.io/to-do-list/).
 
 ## Como Usar
 1. **Adicionar uma Tarefa**:
